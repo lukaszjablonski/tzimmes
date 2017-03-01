@@ -2,3 +2,4 @@
 2. https://mduvall.github.io/grande.js/
 3. https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors
 4. https://www.tutorialspoint.com/php/php_login_example.htm
+5. http://stackoverflow.com/questions/15153776/convert-base64-string-to-an-image-file
