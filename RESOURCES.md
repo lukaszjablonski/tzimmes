@@ -3,3 +3,6 @@
 3. https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors
 4. https://www.tutorialspoint.com/php/php_login_example.htm
 5. http://stackoverflow.com/questions/15153776/convert-base64-string-to-an-image-file
+6. https://github.com/maxkostinevich/FlatDB
+7. https://github.com/Greg0/Lazer-Database
+8. https://github.com/badpenguin/flatfiledb/blob/master/lib/FlatFileDB.php
