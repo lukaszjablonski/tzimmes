@@ -2,8 +2,7 @@
 // DB + settings file ???
 // array() as of PHP 5.4 []
 
-
-$DB = [
+$page = [
  1 => [
   "PL"=>["title"=>"kontakt","file"=>"kontakt.php"],
   "EN"=>["title"=>"contact","file"=>"contact.php"],
@@ -13,10 +12,7 @@ $DB = [
   "EN"=>["title"=>"about","file"=>"about.php"],
  ]
 ];
-
-// $DB[ID][lang][param]
-echo $DB[1]["PL"]["title"];
-
+// $page[ID][lang][param]
 
 $admin = [
  1 => [
@@ -28,7 +24,4 @@ $admin = [
   "password"=>"PASSWORD2",
  ]
 ];
-
 // $admin[ID][param]
-echo $admin[1]["login"];
-echo $admin[1]["password"];
