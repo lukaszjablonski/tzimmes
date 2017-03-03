@@ -8,10 +8,10 @@
  <body>
   <?
    if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) { 
-    echo "Welcome to the member's area, " . $_SESSION['username'] . "!";
+    echo 'Welcome to the member\'s area, ' . $_SESSION['username'] . '!';
    }
    else {
-    echo "Please log in first to see this page.";
+    echo 'Please <a href="login.php">log in</a> first to see this page.';
    }
   ?>
  </body>
