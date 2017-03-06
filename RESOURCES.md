@@ -6,3 +6,4 @@
 6. https://github.com/maxkostinevich/FlatDB
 7. https://github.com/Greg0/Lazer-Database
 8. https://github.com/badpenguin/flatfiledb/blob/master/lib/FlatFileDB.php
+9. https://www.w3schools.com/php/php_file_upload.asp
