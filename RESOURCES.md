@@ -5,7 +5,8 @@
   4. https://github.com/arcs-/medium-button
   5. https://github.com/yabwe/medium-editor-tables
   6. https://github.com/varun-raj/medium-editor-autolist
-  7. https://github.com/yabwe/medium-editor/wiki/extensions-plugins
+  7. https://github.com/orthes/medium-editor-mobile-plugin
+  8. https://github.com/yabwe/medium-editor/wiki/extensions-plugins
 2. https://mduvall.github.io/grande.js/
 3. https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors
 4. https://www.tutorialspoint.com/php/php_login_example.htm
