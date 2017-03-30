@@ -27,5 +27,8 @@
 1. http://stackoverflow.com/questions/15153776/convert-base64-string-to-an-image-file
 2. https://www.w3schools.com/php/php_file_upload.asp
 
+## Settings file
+1. http://stackoverflow.com/a/9533467
+
 ## Layout
 1. https://www.w3schools.com/html/html5_semantic_elements.asp
