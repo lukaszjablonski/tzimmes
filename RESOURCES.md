@@ -26,3 +26,6 @@
 ## File upload
 1. http://stackoverflow.com/questions/15153776/convert-base64-string-to-an-image-file
 2. https://www.w3schools.com/php/php_file_upload.asp
+
+## Layout
+1. https://www.w3schools.com/html/html5_semantic_elements.asp
