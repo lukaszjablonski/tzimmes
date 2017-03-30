@@ -1,3 +1,6 @@
+# Resources
+> List of useful resources for developing tzimmes
+
 ## WYSIWYG editor
   1. https://github.com/yabwe/medium-editor
     1. https://github.com/orthes/medium-editor-insert-plugin
