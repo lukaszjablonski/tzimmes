@@ -1,4 +1,4 @@
-1. WYSIWYG editor
+## WYSIWYG editor
   1. https://github.com/yabwe/medium-editor
     1. https://github.com/orthes/medium-editor-insert-plugin
     2. https://github.com/smiled0g/medium-editor-multi-placeholders-plugin
@@ -10,13 +10,13 @@
     8. https://github.com/yabwe/medium-editor/wiki/extensions-plugins
   2. https://mduvall.github.io/grande.js/
   3. https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors
-2. Log in form
+## Log in form
   1. https://www.tutorialspoint.com/php/php_login_example.htm
   2. http://red-team-design.com/slick-login-form-with-html5-css3/
-3. Flat DB
+## Flat DB
   1. https://github.com/maxkostinevich/FlatDB
   2. https://github.com/Greg0/Lazer-Database
   3. https://github.com/badpenguin/flatfiledb/blob/master/lib/FlatFileDB.php
-4. File upload
+## File upload
   1. http://stackoverflow.com/questions/15153776/convert-base64-string-to-an-image-file
   2. https://www.w3schools.com/php/php_file_upload.asp
