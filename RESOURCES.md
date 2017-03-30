@@ -8,15 +8,15 @@
     6. https://github.com/varun-raj/medium-editor-autolist
     7. https://github.com/orthes/medium-editor-mobile-plugin
     8. https://github.com/yabwe/medium-editor/wiki/extensions-plugins
-2. https://mduvall.github.io/grande.js/
-3. https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors
-Log in form
-1. https://www.tutorialspoint.com/php/php_login_example.htm
-2. http://red-team-design.com/slick-login-form-with-html5-css3/
-Flat DB
-1. https://github.com/maxkostinevich/FlatDB
-2. https://github.com/Greg0/Lazer-Database
-3. https://github.com/badpenguin/flatfiledb/blob/master/lib/FlatFileDB.php
-File upload
-5. http://stackoverflow.com/questions/15153776/convert-base64-string-to-an-image-file
-9. https://www.w3schools.com/php/php_file_upload.asp
+  2. https://mduvall.github.io/grande.js/
+  3. https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors
+2. Log in form
+  1. https://www.tutorialspoint.com/php/php_login_example.htm
+  2. http://red-team-design.com/slick-login-form-with-html5-css3/
+3. Flat DB
+  1. https://github.com/maxkostinevich/FlatDB
+  2. https://github.com/Greg0/Lazer-Database
+  3. https://github.com/badpenguin/flatfiledb/blob/master/lib/FlatFileDB.php
+4. File upload
+  1. http://stackoverflow.com/questions/15153776/convert-base64-string-to-an-image-file
+  2. https://www.w3schools.com/php/php_file_upload.asp
