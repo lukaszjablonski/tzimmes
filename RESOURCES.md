@@ -3,14 +3,14 @@
 
 ## WYSIWYG editor
 1. https://github.com/yabwe/medium-editor
-  1. https://github.com/orthes/medium-editor-insert-plugin
-  2. https://github.com/smiled0g/medium-editor-multi-placeholders-plugin
-  3. https://github.com/jillix/medium-editor-custom-html
-  4. https://github.com/arcs-/medium-button
-  5. https://github.com/yabwe/medium-editor-tables
-  6. https://github.com/varun-raj/medium-editor-autolist
-  7. https://github.com/orthes/medium-editor-mobile-plugin
-  8. https://github.com/yabwe/medium-editor/wiki/extensions-plugins
+    1. https://github.com/orthes/medium-editor-insert-plugin
+    2. https://github.com/smiled0g/medium-editor-multi-placeholders-plugin
+    3. https://github.com/jillix/medium-editor-custom-html
+    4. https://github.com/arcs-/medium-button
+    5. https://github.com/yabwe/medium-editor-tables
+    6. https://github.com/varun-raj/medium-editor-autolist
+    7. https://github.com/orthes/medium-editor-mobile-plugin
+    8. https://github.com/yabwe/medium-editor/wiki/extensions-plugins
 2. https://mduvall.github.io/grande.js/
 3. https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors
 
