@@ -11,6 +11,7 @@
   6. https://github.com/varun-raj/medium-editor-autolist
   7. https://github.com/orthes/medium-editor-mobile-plugin
   8. https://github.com/yabwe/medium-editor/wiki/extensions-plugins
+  
 2. https://mduvall.github.io/grande.js/
 3. https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors
 
