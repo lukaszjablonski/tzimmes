@@ -3,7 +3,7 @@
 
 ## WYSIWYG editor
 1. https://github.com/yabwe/medium-editor
-  *. https://github.com/orthes/medium-editor-insert-plugin
+  1. https://github.com/orthes/medium-editor-insert-plugin
   2. https://github.com/smiled0g/medium-editor-multi-placeholders-plugin
   3. https://github.com/jillix/medium-editor-custom-html
   4. https://github.com/arcs-/medium-button
