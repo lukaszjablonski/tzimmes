@@ -32,3 +32,6 @@
 
 ## Layout
 1. https://www.w3schools.com/html/html5_semantic_elements.asp
+2. https://css-tricks.com/snippets/jquery/smooth-scrolling/
+    1. https://css-tricks.com/smooth-scrolling-accessibility/
+    2. https://css-tricks.com/focus-styles-non-interactive-elements/
