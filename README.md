@@ -1,2 +1,2 @@
 # tzimmes
-> CMS
+> Very simple CMS
