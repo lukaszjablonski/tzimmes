@@ -1,5 +1,4 @@
 ## License
-Distributed under MIT License
 
 Copyright (c) 2017 Lukasz Jablonski
 
