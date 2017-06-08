@@ -1,7 +1,7 @@
 # tzimmes
 > Very simple CMS
 
-Concepts:
+Goals:
 - install by copying files to ftp
 - content editable in the front-end
 - flat file database
