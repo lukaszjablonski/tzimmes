@@ -44,7 +44,7 @@
    </form><?php } echo PHP_EOL; ?>
   </main>
   <footer>
-   powered by <a href="">tzimmes</a>
+   powered by <a href="http://github.com/lukaszjablonski/tzimmes/">tzimmes</a>
    <?php
     if($loggedin) { 
      echo 'welcome ' . $_SESSION['username'] . ' <a href="logout.php">log out</a>'.PHP_EOL;
