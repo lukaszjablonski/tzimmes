@@ -25,6 +25,7 @@
 ## File upload
 1. http://stackoverflow.com/questions/15153776/convert-base64-string-to-an-image-file
 2. https://www.w3schools.com/php/php_file_upload.asp
+3. https://github.com/enyo/dropzone/
 
 ## Settings file
 1. http://stackoverflow.com/a/9533467
